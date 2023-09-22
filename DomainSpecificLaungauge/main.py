@@ -1,3 +1,5 @@
+# Domain-Specific Launguage to give the sum of Two mumers / or concatnate them together
+
 import ply.lex as lex
 import ply.yacc as yacc
 

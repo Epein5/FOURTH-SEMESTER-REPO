@@ -38,6 +38,6 @@ user2 = User('user2', 'user2@example.com')
 user3 = User('user3', 'user3@example.com')
 
 
-user1.add_contact(user3)
+2
 user1.send_message(user3, 'Hello!')
 user1.send_message(user2, 'Hello!')
